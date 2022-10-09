@@ -1,0 +1,166 @@
+body{
+	font: 15px/1.5 Arial, Helvetica,sans-serif;
+	padding:0;
+	margin:0;
+	background-color:#F9F9F9;
+}
+
+/* Global */
+.container{
+	width:auto;
+	margin:auto;
+	overflow:hidden;
+}
+
+ul{
+  margin:0;
+  padding:0;
+}
+
+.button_1{
+  height:auto;
+  background:#FFC300;
+  border:0;
+  padding-left:10px;
+  padding-right:10px;
+  color:#2C1616;
+}
+
+.dark{
+  padding:15px;
+  background:#;
+  color:#ffffff;
+  margin-top:px;
+  margin-bottom:px;
+}
+
+/* Header */
+header{
+	background:#FFFFFF;
+	color:#ffffff;
+	padding-top:0.1px;
+	min-height:1px;
+	border-bottom:#000000 0px solid
+}
+
+header ul{
+	margin:auto;
+	padding:0px;
+}
+
+header li{
+	float:left;
+	display:inline;
+	padding:0 20px 0 20px;
+}
+
+header #branidng{
+	float:left;
+	margin-top:1px;
+}
+
+header #branding h1{
+	margin-top:1px;
+}
+
+header nav{
+	float:right;
+	margin-top:1px;
+	padding-top:1px;
+	min-height:1px;
+}
+
+header .highlight, header .current a{
+	color:#000000;
+	font-weight:bold;
+}
+
+header .highlight, header .desley a{
+	color:#000000;
+	font-weight:bold;
+}
+
+section .Highlight, section .container a{
+	color:#000000;
+	font-weight:bold;
+	
+}
+
+
+
+header a:hover{
+	color:#EB0D0D;
+	font-weight:bold;
+}
+
+/* Showcase */
+#showcase{
+	min-height:20px;
+	background:#F9F9F9;
+	text-align:center;
+	color:#f9f9f9;
+}
+
+#showcase center{
+	margin-top:10px;
+	font-size:20px;
+	margin-bottom:40px;
+	color:#F9F9F9;
+	
+}
+
+#showcase p{
+	font-size:20px
+}
+
+#showcase i{
+	color:#F9F9F9;
+}
+
+#newsletter{
+	padding:15px;
+	color:#000000;
+	background:#F9F9F9;
+}
+
+/* Sidebar */
+aside#sidebar{
+	float:right;
+	width:30%;
+	margin-top:10px;
+}
+
+/* Main-col */
+article#main-col{
+	float:center;
+	width:100%;
+}
+
+footer{
+	padding:10px;
+	margin-top:0px;
+	color:FFFFFF#;
+	background-color:#D6D6D6;
+	text-align:center;
+}
+
+/* Showcase */
+#Showcase{
+	padding:10px;
+	margin-top:30px;
+	color:000000#;
+	background-color:#EEEE64;
+	text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
